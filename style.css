@@ -33,4 +33,11 @@
     height: 500px;
     background-image: url(../antwan3/311dce_b91a7b8c8d354b9591174f9ef692168c_mv2.webp);
     border: none;
+    margin-bottom: 50px;
+}
+#ukra{
+    width: 1350px ;
+    height: 100px;
+    border: 1px solid black;
+    margin-top: 2px;
 }
